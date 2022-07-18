@@ -10,10 +10,14 @@
 # SITE SETTINGS
 #
 title: Assets to you
+
 description: "Rise and Shine"
+
 year: 2020
+
 author: evan will 
 # add search box to navbar, true/false
+
 search: true
 
 ##########
